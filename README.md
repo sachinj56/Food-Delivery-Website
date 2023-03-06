@@ -33,6 +33,13 @@ The website will target individuals who are looking for an easy and convenient w
 * The interface will have various filter options like cuisine,cost etc to give best user experience to the customer.
 
 ## Below are some screenshots to give an idea what user interface will look like- 
-![Screen Shot 2023-02-09 at 11 28 55 PM](https://user-images.githubusercontent.com/83384002/218013684-c14c05fd-3382-41bb-b94d-133dfb3d9699.png)
-![Screen Shot 2023-02-09 at 11 30 08 PM](https://user-images.githubusercontent.com/83384002/218014212-aed5f6fb-5715-4e23-8942-e5819118612b.png)
-![Screen Shot 2023-02-09 at 11 30 17 PM](https://user-images.githubusercontent.com/83384002/218014402-7c914656-e7b4-4993-b81d-5612fff69e77.png)
+<img width="1436" alt="Screen Shot 2023-03-05 at 7 08 34 PM" src="https://user-images.githubusercontent.com/83384002/223002383-1abe80e8-eac3-436e-94e6-edb74a5d583a.png">
+<img width="721" alt="Screen Shot 2023-03-05 at 7 09 02 PM" src="https://user-images.githubusercontent.com/83384002/223002448-4c01498b-dbea-47f8-b6db-35431fdac939.png">
+<img width="1416" alt="Screen Shot 2023-03-05 at 7 09 13 PM" src="https://user-images.githubusercontent.com/83384002/223002482-4fca06fa-1dda-4841-9a5a-7ea427ddda25.png">
+<img width="1422" alt="Screen Shot 2023-03-05 at 7 11 11 PM" src="https://user-images.githubusercontent.com/83384002/223002506-1be92753-9f30-4f03-8a21-56b125d367d2.png">
+<img width="1431" alt="Screen Shot 2023-03-05 at 7 11 29 PM" src="https://user-images.githubusercontent.com/83384002/223002533-e6deb00f-d757-4f57-8f3d-c76bed5f95ae.png">
+<img width="1431" alt="Screen Shot 2023-03-05 at 7 11 56 PM" src="https://user-images.githubusercontent.com/83384002/223002563-baaf8bc8-799e-4d59-b354-26bb8c6cd557.png">
+
+
+<img width="1290" alt="Screen Shot 2023-03-05 at 7 12 07 PM" src="https://user-images.githubusercontent.com/83384002/223002591-a8579774-7dd5-4966-8042-e2245173e3e3.png">
+
