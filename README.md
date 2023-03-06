@@ -3,7 +3,7 @@
 
 ## Scope:
 
-The website will allow customers to:
+The website allows customers to:
 
 * Browse through menus from local restaurants
 * Place orders
@@ -25,7 +25,7 @@ The website will target individuals who are looking for an easy and convenient w
 ## Key Requirements:
 
 * A user-friendly interface that allows customers to easily browse menus and place orders.
-* Integration with various payment systems(Stripe/Paytm pay) to allow customers to pay online.
+* Integration with payment systems(razorpay) to allow customers to pay online.
 * Fully responsive website so that customers can also order using their mobile devices.
 * Secure and encrypted data storage for customer information and payment details, using MongoDB.
 * Option for customers to leave ratings and reviews for restaurants and food items.
