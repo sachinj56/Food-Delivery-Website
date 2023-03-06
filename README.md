@@ -32,7 +32,7 @@ The website will target individuals who are looking for an easy and convenient w
 * The website will be built using the MEVN stack (MongoDB, Express, Vue.js, and Node.js).
 * The interface will have various filter options like cuisine,cost etc to give best user experience to the customer.
 
-## Below are some screenshots to give an idea what user interface will look like- 
+## Below are some screenshots of the interface:- 
 <img width="1436" alt="Screen Shot 2023-03-05 at 7 08 34 PM" src="https://user-images.githubusercontent.com/83384002/223002383-1abe80e8-eac3-436e-94e6-edb74a5d583a.png">
 <img width="721" alt="Screen Shot 2023-03-05 at 7 09 02 PM" src="https://user-images.githubusercontent.com/83384002/223002448-4c01498b-dbea-47f8-b6db-35431fdac939.png">
 <img width="1416" alt="Screen Shot 2023-03-05 at 7 09 13 PM" src="https://user-images.githubusercontent.com/83384002/223002482-4fca06fa-1dda-4841-9a5a-7ea427ddda25.png">
