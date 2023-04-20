@@ -1,5 +1,5 @@
 # Food-Delivery-Website
-# User-friendly and efficient food delivery website that connects customers with local restaurants using the MERN stack.
+# User-friendly and efficient food delivery website that connects customers with local restaurants .
 
 ## Scope:
 
